@@ -4,7 +4,8 @@
 			"path": "pages/index/index",
 			"style": {
 				"navigationBarTitleText": "智音学生端",
-				"navigationStyle": "custom"//导航栏透明
+				"navigationStyle": "custom",//导航栏透明
+				"navigationBarTextStyle":"white"//白色字体
 			}
 		}
 	],
